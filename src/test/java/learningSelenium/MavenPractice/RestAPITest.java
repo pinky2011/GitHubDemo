@@ -8,6 +8,7 @@ public class RestAPITest {
 	public void APITesting1() {
 		System.out.println(" APITesting1 printer");
 		System.out.println("git changes  from duplicate");
+		System.out.println("Rajesh is a good boy");
 	}
 	@Test
 	public void APITesting2 () {
