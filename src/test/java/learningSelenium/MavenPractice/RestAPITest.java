@@ -9,6 +9,9 @@ public class RestAPITest {
 		System.out.println(" APITesting1 printer");
 		System.out.println("git changes  from duplicate");
 		System.out.println("Test");
+		System.out.println("changes  done in gitstuff for branches(develop)");
+		
+		
 	}
 	@Test
 	public void APITesting2 () {
